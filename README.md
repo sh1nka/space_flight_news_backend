@@ -1,4 +1,4 @@
-# space_flight_news
+# space_flight_news_backend
 Description TL:DR
 - Project focused in show news from a 3rd party Space Flight News
 
