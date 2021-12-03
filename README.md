@@ -11,5 +11,5 @@ Complete Description
 - Unit Tests for Endpoints
 
 Technologies
-- Frontend ReactJS | SWR | Material UI
+- Frontend - ReactJS | SWR | Material UI
 - Backend - NodeJS | NestJS | Typescript | PostgreSQL | Docker
